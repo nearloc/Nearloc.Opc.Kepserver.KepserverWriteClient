@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>nearloc</Company>
+    <Authors>nearloc</Authors>
+    <RepositoryUrl>https://github.com/nearloc/Nearloc.Opc.Kepserver.KepserverWriteClient</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/nearloc/Nearloc.Opc.Kepserver.KepserverWriteClient</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
