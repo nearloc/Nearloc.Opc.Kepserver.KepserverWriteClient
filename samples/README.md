@@ -1,2 +1,1 @@
-# Nearloc.Opc.Kepserver.KepserverWriteClient
-Client wrapper to write value to kepserver
+Console app to see KepWriteClient in action.
